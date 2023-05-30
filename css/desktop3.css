@@ -40,7 +40,7 @@ html,body
 }
 
 .banner{
-    background-image: url("./img/desktop3/Vector (16).svg");
+    background-image: url("../img/desktop3/Vector (16).svg");
     background-repeat: no-repeat;
     background-size: 100vw;
     background-position: bottom left;
@@ -91,14 +91,14 @@ h2{
 .item__img_1_1{
     flex: 1 1 50%;
     width: 100vw;
-    background-image: url("./img/desktop3/Vector (2).svg");
+    background-image: url("../img/desktop3/Vector (2).svg");
     background-repeat: no-repeat;
     background-position: right;
 }
 .item__img_1_2{
     flex: 1 1 50%;
     width: 100vw;
-    background-image: url("./img/desktop3/Vector (3).svg");
+    background-image: url("../img/desktop3/Vector (3).svg");
     background-repeat: no-repeat;
     background-position: left;
     
@@ -259,7 +259,7 @@ footer{
 }
 
 .contact__main{
-    background-image: url("./img/desktop2/Vector (5).svg");
+    background-image: url("../img/desktop2/Vector (5).svg");
     background-repeat: no-repeat;
     background-position: right;
     padding-right: 30px;
