@@ -40,7 +40,7 @@ html,body
 }
 
 .banner{
-    background-image: url("./img/desktop2/Vector (3).svg");
+    background-image: url("../img/desktop2/Vector (3).svg");
     background-repeat: no-repeat;
     background-size: 100vw;
     background-position: bottom left;
@@ -103,14 +103,14 @@ h2{
 
 .item:nth-child(even){
     width: 80vw;
-    background-image: url("./img/desktop2/Vector (7).svg");
+    background-image: url("../img/desktop2/Vector (7).svg");
     background-position: right;
     background-repeat: no-repeat;
 }
 
 .item:nth-child(odd){
     width: 100vw;
-    background-image: url("./img/desktop2/Vector (6).svg");
+    background-image: url("../img/desktop2/Vector (6).svg");
     background-position: left;
     background-repeat: no-repeat;
 }
@@ -191,7 +191,7 @@ footer{
 }
 
 .contact__main{
-    background-image: url("./img/desktop2/Vector (5).svg");
+    background-image: url("../img/desktop2/Vector (5).svg");
     background-repeat: no-repeat;
     background-position: right;
     padding-right: 30px;
